@@ -1,0 +1,19 @@
+{
+  "name": "fccportfolio",
+  "version": "1.0.0",
+  "description": "VanillaJS_FccPortfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caffeinated1/fccPortfolio.git"
+  },
+  "author": "David Espana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caffeinated1/fccPortfolio/issues"
+  },
+  "homepage": "https://github.com/caffeinated1/fccPortfolio#readme"
+}
