@@ -4,6 +4,7 @@ body {
 
 .navbar {
   margin-bottom: 0;
+  height: 40px;
 }
 
 .jumbotron {
@@ -23,6 +24,10 @@ body {
 
 .jumbotron .container {
   max-width: 40rem;
+}
+
+#projTitle {
+  margin-left: 30px;
 }
 
 .album {
